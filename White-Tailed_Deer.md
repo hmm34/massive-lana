@@ -18,3 +18,9 @@ Primarily plant matter, but will occassionally eat mushrooms, nesting birds, and
 
 # View time
 Active in all seasons and throughout the day but primarily active at dusk and dawn.
+
+# Tags
+winter
+summer
+mammal
+omnivore
